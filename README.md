@@ -1,0 +1,2 @@
+# learning-NekodemowakaruCgengoProgramming
+このリポジトリには、「猫でもわかるC言語プログラミング」に書かれている内容を、ソースコードとしてまとめられたドキュメントが保存されています。
